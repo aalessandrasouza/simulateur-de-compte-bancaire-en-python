@@ -24,7 +24,7 @@ Simulateur simple de compte bancaire permettant de faire des dépôts, des retra
 
 ## Contact
 
-Alessandra — [LinkedIn](https://www.linkedin.com/in/alessandrasouza97) | [Email](mailto:alessandrasouza6178@gmail.com)
+Alessandra Souza — [LinkedIn](https://www.linkedin.com/in/alessandrasouza97) | [Email](mailto:alessandrasouza6178@gmail.com)
 
 
 
