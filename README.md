@@ -17,7 +17,7 @@ Simulateur simple de compte bancaire permettant de faire des dépôts, des retra
 ## Comment exécuter le projet
 
 1. Cloner le dépôt : https://github.com/aalessandrasouza/desenvolvimento-de-software-financeiro.git
-2. Aller dans le dossier du projet : desenvolvimento-de-software-financeiro
+2. Aller dans le dossier du projet : simulateur-de-compte-bancaire-en-python
 3. Lancer le script Python : dados_bancarios.py
 
 *Assurez-vous d’avoir Python 3 installé sur votre système.*
